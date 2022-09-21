@@ -1,0 +1,22 @@
+.task {
+  background: rgb(22, 22, 22);
+  margin: 15px 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.task.reminder {
+  border-top: 7px dotted yellowgreen;
+  border-bottom: 3px solid yellowgreen;
+}
+
+.task.neglect {
+  border-top: 7px dotted red;
+  border-bottom: 3px solid red;
+}
+
+.task h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

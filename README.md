@@ -1,4 +1,4 @@
-# TasksTrackerAngular
+# Tasks Tracker Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#
+
+#
+
+# Angular Crash Course (Task Tracker App)
+
+This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=3dHNOWTI7H8). It includes learning the fundamentals of Angular in this project-based crash course.
+
+## Usage
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run Angular dev server (http://localhost:4200)
+
+```
+ng serve
+```
+
+### Run the JSON server (http://localhost:5000)
+
+```
+npm run server
+```
